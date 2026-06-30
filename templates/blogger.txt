@@ -1,0 +1,18 @@
+Subject: Review request: "{book_title}" (children's picture book)
+
+Hi {name},
+
+I read your review policy and wanted to reach out the right way. I'm {author},
+author of a new children's book, "{book_title}."
+
+{blurb}
+
+If it fits what you cover, I'd be grateful if you'd consider it for a review.
+You can see it here: {link} — and I'm glad to provide a free copy in whatever
+format works best for you (print, PDF, or ePub).
+
+Totally understand if your schedule is full. Thank you for championing
+children's books!
+
+Warmly,
+{author}

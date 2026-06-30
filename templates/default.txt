@@ -1,0 +1,17 @@
+Subject: A new children's book I'd love your thoughts on — {book_title}
+
+Hi {name},
+
+I'm {author}, and I recently published a children's book called "{book_title}."
+
+{blurb}
+
+I'm reaching out because your work connecting with kids and families made me
+think you might enjoy it. If you'd be open to taking a look, here's the link:
+{link}
+
+No pressure at all — and if it's a fit, an honest review or a mention would
+mean the world to a new author. Happy to send more details or a copy.
+
+Thank you for the work you do,
+{author}

@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Attic Moose configuration
+#
+# 1. Copy this file to "config.yaml"   (the real one is git-ignored)
+# 2. Fill in every value below
+# 3. Never share config.yaml — it holds your search API key
+# ─────────────────────────────────────────────────────────────────────────
+
+book:
+  title: "The Sleepy Little Moose"          # your book's title
+  author: "Your Name"                        # how you sign the emails
+  link: "https://www.amazon.com/dp/XXXXXXXX" # where reviewers go (Amazon, etc.)
+  blurb: >                                    # 1-2 sentence pitch (used in emails)
+    A gentle bedtime story about a young moose learning that it is okay
+    to ask for help. Ages 3-7.
+
+# Required by anti-spam law (CAN-SPAM). Must be a real postal address.
+# This appears at the bottom of every email you send.
+sender:
+  reply_to: "you@example.com"
+  mailing_address: "123 Main St, Suite 4, Yourtown, ST 00000, USA"
+
+search:
+  # Brave Search API key — free tier at https://brave.com/search/api/
+  # The README walks you through getting this in ~3 minutes.
+  brave_api_key: "PASTE_YOUR_BRAVE_KEY_HERE"
+
+  # How many search results to pull per query. Higher = more contacts, slower.
+  results_per_query: 10
+
+  # Polite crawling. Do not lower these — they keep you a good web citizen
+  # and keep you off block lists.
+  delay_seconds: 2.0          # wait between requests to the same site
+  user_agent: "AtticMooseOutreach/1.0 (book review outreach; contact: you@example.com)"
+  respect_robots: true        # leave true. always.
+
+# Which audiences to discover. Comment out any you do not want.
+audiences:
+  - blogger
+  - librarian
+  - teacher
+  - therapist
+  - child_psychologist
+  - influencer
+  - homeschool
+
+# Optional: focus on specific regions/cities to make results more relevant.
+# Leave empty for a broad (US-wide) search.
+regions:
+  - ""        # e.g. "Seattle WA", "Texas", "United Kingdom"

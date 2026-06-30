@@ -1,0 +1,16 @@
+Subject: A picture book for your classroom — "{book_title}"
+
+Hi {name},
+
+I'm {author}, a children's book author. I just released "{book_title}" and
+thought it might be a nice fit for your classroom read-alouds.
+
+{blurb}
+
+You can take a look here: {link}
+
+If it resonates, I'd love for your students to enjoy it — and I'm happy to send
+a copy or share classroom-friendly materials. No obligation at all.
+
+With appreciation for the work you do,
+{author}

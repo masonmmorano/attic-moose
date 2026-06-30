@@ -1,0 +1,17 @@
+Subject: A children's book that may help in your work — "{book_title}"
+
+Hi {name},
+
+I'm {author}, author of a new children's book called "{book_title}." Given your
+work with children and families, I thought it might be a helpful resource.
+
+{blurb}
+
+Here's the link if you'd like to see it: {link}
+
+If it seems useful for the families you work with, I'd be grateful for your
+thoughts, and I'm happy to provide a copy. Thank you for the important work
+you do.
+
+Warm regards,
+{author}

@@ -1,0 +1,16 @@
+Subject: A children's book that may interest you — "{book_title}"
+
+Hi {name},
+
+I'm {author}, author of a newly published children's book, "{book_title}."
+Because of your expertise in child development, I'd value your perspective on it.
+
+{blurb}
+
+You can preview it here: {link}
+
+If it's something you'd find worthwhile for the children and families you serve,
+I'd welcome your feedback, and I'm glad to send a copy. Thank you for considering.
+
+Sincerely,
+{author}

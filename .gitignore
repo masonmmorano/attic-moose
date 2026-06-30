@@ -1,0 +1,16 @@
+# Secrets & local config
+config.yaml
+.env
+gmail_credentials.json
+gmail_token.json
+
+# Generated data & drafts
+output/
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

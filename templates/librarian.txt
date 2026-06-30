@@ -1,0 +1,16 @@
+Subject: New picture book for your young readers — "{book_title}"
+
+Hi {name},
+
+I'm {author}, a children's book author. I wanted to make you aware of my new
+picture book, "{book_title}," in case it's a fit for your young readers.
+
+{blurb}
+
+Here's where you can preview it: {link}
+
+If it looks like something your patrons would enjoy, I'd be honored to have it
+on your shelves, and I'm happy to answer any questions or provide a review copy.
+
+Thank you for everything you do to put books in kids' hands,
+{author}

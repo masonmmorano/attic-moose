@@ -1,0 +1,16 @@
+Subject: Collab / review idea — children's book "{book_title}"
+
+Hi {name},
+
+I'm {author}, author of the new children's book "{book_title}," reaching out via
+your business contact. I love how you share children's books with your audience.
+
+{blurb}
+
+Here's the book: {link}
+
+If it feels like a fit for your audience, I'd love to explore a review, feature,
+or collaboration — and I'm happy to send a copy and discuss what works for you.
+
+Thanks so much,
+{author}
